@@ -1,2 +1,2 @@
-# biblias
+# Biblias
 Repositorio de Biblias
